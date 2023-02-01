@@ -1,0 +1,1139 @@
+<?xml version="1.0" ?>
+<mapping>
+	<map>
+		<framework name="426" out_port_id="426"/>
+		<IR id="48" name="426/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="534" out_port_id="534"/>
+		<IR id="245" name="534" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="607" out_port_id="607"/>
+		<IR id="365" name="606/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.1.initial.0.weight" out_port_id="refinement_stages.0.trunk.1.initial.0.weight"/>
+		<IR id="199" name="onnx_initializer_node_refinement_stages.0.trunk.1.initial.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="482" out_port_id="482"/>
+		<IR id="141" name="482" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="447" out_port_id="447"/>
+		<IR id="83" name="447/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="506" out_port_id="506"/>
+		<IR id="196" name="505/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="445" out_port_id="445"/>
+		<IR id="79" name="445" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="474" out_port_id="474"/>
+		<IR id="129" name="474" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="414" out_port_id="414"/>
+		<IR id="28" name="414/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="524" out_port_id="524"/>
+		<IR id="228" name="523/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="data" out_port_id="data"/>
+		<IR id="4" name="Add_/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="initial_stage.pafs.0.0.weight" out_port_id="initial_stage.pafs.0.0.weight"/>
+		<IR id="173" name="onnx_initializer_node_initial_stage.pafs.0.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="449" out_port_id="449"/>
+		<IR id="86" name="449" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="492" out_port_id="492"/>
+		<IR id="163" name="492" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="508" out_port_id="508"/>
+		<IR id="198" name="508" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="437" out_port_id="437"/>
+		<IR id="66" name="437" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="cpm.align.0.weight" out_port_id="cpm.align.0.weight"/>
+		<IR id="120" name="onnx_initializer_node_cpm.align.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="536" out_port_id="536"/>
+		<IR id="250" name="536" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="572" out_port_id="572"/>
+		<IR id="308" name="572" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="initial_stage.trunk.2.0.weight" out_port_id="initial_stage.trunk.2.0.weight"/>
+		<IR id="159" name="onnx_initializer_node_initial_stage.trunk.2.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="594" out_port_id="594"/>
+		<IR id="344" name="593/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="495" out_port_id="495"/>
+		<IR id="172" name="495" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="493" out_port_id="493"/>
+		<IR id="167" name="493" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="526" out_port_id="526"/>
+		<IR id="230" name="526" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="429" out_port_id="429"/>
+		<IR id="53" name="429/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="428" out_port_id="428"/>
+		<IR id="51" name="428" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="model.4.3.weight" out_port_id="model.4.3.weight"/>
+		<IR id="45" name="426/mean/Fused_Mul_1260312605_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="513" out_port_id="513"/>
+		<IR id="208" name="513" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.heatmaps.0.0.weight" out_port_id="refinement_stages.0.heatmaps.0.0.weight"/>
+		<IR id="263" name="onnx_initializer_node_refinement_stages.0.heatmaps.0.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="620" out_port_id="620"/>
+		<IR id="388" name="620" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="619" out_port_id="619"/>
+		<IR id="387" name="619" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="581" out_port_id="581"/>
+		<IR id="323" name="580/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.4.bottleneck.0.0.weight" out_port_id="Pose3D.stem.4.bottleneck.0.0.weight"/>
+		<IR id="352" name="601/mean/Fused_Mul_1275512757_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.3.bottleneck.1.0.weight" out_port_id="Pose3D.stem.3.bottleneck.1.0.weight"/>
+		<IR id="341" name="594/mean/Fused_Mul_1274712749_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="578" out_port_id="578"/>
+		<IR id="318" name="578" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="423" out_port_id="423"/>
+		<IR id="43" name="423/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="Pose3D.prediction.trunk.0.initial.0.weight" out_port_id="Pose3D.prediction.trunk.0.initial.0.weight"/>
+		<IR id="368" name="onnx_initializer_node_Pose3D.prediction.trunk.0.initial.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="model.6.0.weight" out_port_id="model.6.0.weight"/>
+		<IR id="60" name="1845018453_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="model.3.0.weight" out_port_id="model.3.0.weight"/>
+		<IR id="30" name="1843418437_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="403" out_port_id="403"/>
+		<IR id="9" name="403" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="531" out_port_id="531"/>
+		<IR id="240" name="531" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.3.trunk.0.0.weight" out_port_id="refinement_stages.0.trunk.3.trunk.0.0.weight"/>
+		<IR id="236" name="530/mean/Fused_Mul_1268712689_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="415" out_port_id="415"/>
+		<IR id="29" name="415" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.4.bottleneck.2.0.weight" out_port_id="Pose3D.stem.4.bottleneck.2.0.weight"/>
+		<IR id="362" name="607/mean/Fused_Mul_1276312765_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.0.bottleneck.2.0.weight" out_port_id="Pose3D.stem.0.bottleneck.2.0.weight"/>
+		<IR id="298" name="564/mean/Fused_Mul_1271512717_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="484" out_port_id="484"/>
+		<IR id="143" name="484" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="model.3.3.weight" out_port_id="model.3.3.weight"/>
+		<IR id="35" name="420/mean/Fused_Mul_1259512597_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="611" out_port_id="611"/>
+		<IR id="372" name="611" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="443" out_port_id="443"/>
+		<IR id="76" name="443" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="450" out_port_id="450"/>
+		<IR id="88" name="450/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.4.trunk.1.0.weight" out_port_id="refinement_stages.0.trunk.4.trunk.1.0.weight"/>
+		<IR id="257" name="542/mean/Fused_Mul_1269912701_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="cpm.trunk.1.2.weight" out_port_id="cpm.trunk.1.2.weight"/>
+		<IR id="134" name="onnx_initializer_node_cpm.trunk.1.2.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.1.bottleneck.2.0.weight" out_port_id="Pose3D.stem.1.bottleneck.2.0.weight"/>
+		<IR id="314" name="577/mean/Fused_Mul_1272712729_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="initial_stage.heatmaps.1.0.weight" out_port_id="initial_stage.heatmaps.1.0.weight"/>
+		<IR id="169" name="onnx_initializer_node_initial_stage.heatmaps.1.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="model.9.3.weight" out_port_id="model.9.3.weight"/>
+		<IR id="95" name="456/mean/Fused_Mul_1264312645_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="547" out_port_id="547"/>
+		<IR id="271" name="547" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="601" out_port_id="601"/>
+		<IR id="355" name="600/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="489" out_port_id="489"/>
+		<IR id="157" name="489" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="591" out_port_id="591"/>
+		<IR id="339" name="590/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="469" out_port_id="469"/>
+		<IR id="119" name="469" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="model.2.3.weight" out_port_id="model.2.3.weight"/>
+		<IR id="25" name="414/mean/Fused_Mul_1258712589_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="519" out_port_id="519"/>
+		<IR id="219" name="519" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="404" out_port_id="404"/>
+		<IR id="11" name="404" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="564" out_port_id="564"/>
+		<IR id="301" name="563/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="494" out_port_id="494"/>
+		<IR id="168" name="494" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="488" out_port_id="488"/>
+		<IR id="153" name="488" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="432" out_port_id="432"/>
+		<IR id="58" name="432/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="444" out_port_id="444"/>
+		<IR id="78" name="444/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="model.4.0.weight" out_port_id="model.4.0.weight"/>
+		<IR id="40" name="1845418457_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="418" out_port_id="418"/>
+		<IR id="34" name="418" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="559" out_port_id="559"/>
+		<IR id="292" name="559" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="562" out_port_id="562"/>
+		<IR id="297" name="562" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="555" out_port_id="555"/>
+		<IR id="281" name="555" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.2.bottleneck.1.0.weight" out_port_id="Pose3D.stem.2.bottleneck.1.0.weight"/>
+		<IR id="325" name="584/mean/Fused_Mul_1273512737_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="587" out_port_id="587"/>
+		<IR id="333" name="586/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="609" out_port_id="609"/>
+		<IR id="367" name="609" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="604" out_port_id="604"/>
+		<IR id="360" name="603/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="595" out_port_id="595"/>
+		<IR id="345" name="595" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.1.trunk.1.0.weight" out_port_id="refinement_stages.0.trunk.1.trunk.1.0.weight"/>
+		<IR id="209" name="515/mean/Fused_Mul_1267512677_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.prediction.trunk.0.trunk.1.0.weight" out_port_id="Pose3D.prediction.trunk.0.trunk.1.0.weight"/>
+		<IR id="378" name="616/mean/Fused_Mul_1277112773_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.3.initial.0.weight" out_port_id="refinement_stages.0.trunk.3.initial.0.weight"/>
+		<IR id="231" name="onnx_initializer_node_refinement_stages.0.trunk.3.initial.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="458" out_port_id="458"/>
+		<IR id="101" name="458" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="420" out_port_id="420"/>
+		<IR id="38" name="420/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.3.trunk.1.0.weight" out_port_id="refinement_stages.0.trunk.3.trunk.1.0.weight"/>
+		<IR id="241" name="533/mean/Fused_Mul_1269112693_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.1.bottleneck.0.0.weight" out_port_id="Pose3D.stem.1.bottleneck.0.0.weight"/>
+		<IR id="304" name="571/mean/Fused_Mul_1271912721_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="475" out_port_id="475"/>
+		<IR id="130" name="475" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="575" out_port_id="575"/>
+		<IR id="313" name="575" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="413" out_port_id="413"/>
+		<IR id="26" name="413" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="546" out_port_id="546"/>
+		<IR id="267" name="546" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="627" out_port_id="627"/>
+		<IR id="399" name="627" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="617" out_port_id="617"/>
+		<IR id="382" name="617" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.3.bottleneck.2.0.weight" out_port_id="Pose3D.stem.3.bottleneck.2.0.weight"/>
+		<IR id="346" name="597/mean/Fused_Mul_1275112753_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="542" out_port_id="542"/>
+		<IR id="260" name="541/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.0.trunk.1.0.weight" out_port_id="refinement_stages.0.trunk.0.trunk.1.0.weight"/>
+		<IR id="193" name="506/mean/Fused_Mul_1266712669_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="582" out_port_id="582"/>
+		<IR id="324" name="582" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.0.align.0.weight" out_port_id="Pose3D.stem.0.align.0.weight"/>
+		<IR id="283" name="567/mean/Fused_Mul_1270312705_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="530" out_port_id="530"/>
+		<IR id="239" name="529/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="411" out_port_id="411"/>
+		<IR id="23" name="411/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="408" out_port_id="408"/>
+		<IR id="18" name="408/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="model.0.0.weight" out_port_id="model.0.0.weight"/>
+		<IR id="5" name="402/mean/Fused_Mul_1257112573_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.3.bottleneck.0.0.weight" out_port_id="Pose3D.stem.3.bottleneck.0.0.weight"/>
+		<IR id="336" name="591/mean/Fused_Mul_1274312745_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="588" out_port_id="588"/>
+		<IR id="334" name="588" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.0.trunk.0.0.weight" out_port_id="refinement_stages.0.trunk.0.trunk.0.0.weight"/>
+		<IR id="188" name="503/mean/Fused_Mul_1266312665_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="452" out_port_id="452"/>
+		<IR id="91" name="452" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="model.8.3.weight" out_port_id="model.8.3.weight"/>
+		<IR id="85" name="450/mean/Fused_Mul_1263512637_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="499" out_port_id="499"/>
+		<IR id="182" name="499" out_port_id="3"/>
+	</map>
+	<map>
+		<framework name="model.5.3.weight" out_port_id="model.5.3.weight"/>
+		<IR id="55" name="432/mean/Fused_Mul_1261112613_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="497" out_port_id="497"/>
+		<IR id="177" name="497" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="597" out_port_id="597"/>
+		<IR id="349" name="596/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="439" out_port_id="439"/>
+		<IR id="69" name="439" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="initial_stage.pafs.1.0.weight" out_port_id="initial_stage.pafs.1.0.weight"/>
+		<IR id="178" name="onnx_initializer_node_initial_stage.pafs.1.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="430" out_port_id="430"/>
+		<IR id="54" name="430" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="567" out_port_id="567"/>
+		<IR id="286" name="566/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="517" out_port_id="517"/>
+		<IR id="214" name="517" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.2.initial.0.weight" out_port_id="refinement_stages.0.trunk.2.initial.0.weight"/>
+		<IR id="215" name="onnx_initializer_node_refinement_stages.0.trunk.2.initial.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="470" out_port_id="470"/>
+		<IR id="123" name="470" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="406" out_port_id="406"/>
+		<IR id="14" name="406" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="568" out_port_id="568"/>
+		<IR id="287" name="568" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.1.bottleneck.1.0.weight" out_port_id="Pose3D.stem.1.bottleneck.1.0.weight"/>
+		<IR id="309" name="574/mean/Fused_Mul_1272312725_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.2.bottleneck.2.0.weight" out_port_id="Pose3D.stem.2.bottleneck.2.0.weight"/>
+		<IR id="330" name="587/mean/Fused_Mul_1273912741_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="cpm.trunk.0.0.weight" out_port_id="cpm.trunk.0.0.weight"/>
+		<IR id="125" name="1841018413_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="548" out_port_id="548"/>
+		<IR id="275" name="548" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="410" out_port_id="410"/>
+		<IR id="21" name="410" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="402" out_port_id="402"/>
+		<IR id="8" name="402/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="cpm.trunk.2.2.weight" out_port_id="cpm.trunk.2.2.weight"/>
+		<IR id="140" name="onnx_initializer_node_cpm.trunk.2.2.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="598" out_port_id="598"/>
+		<IR id="350" name="598" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="485" out_port_id="485"/>
+		<IR id="147" name="485" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="553" out_port_id="553"/>
+		<IR id="415" name="553" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="model.10.3.weight" out_port_id="model.10.3.weight"/>
+		<IR id="105" name="462/mean/Fused_Mul_1265112653_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="556" out_port_id="556"/>
+		<IR id="282" name="556" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="579" out_port_id="579"/>
+		<IR id="319" name="579" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="468" out_port_id="468"/>
+		<IR id="118" name="468/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="605" out_port_id="605"/>
+		<IR id="361" name="605" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="model.1.3.weight" out_port_id="model.1.3.weight"/>
+		<IR id="15" name="408/mean/Fused_Mul_1257912581_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="509" out_port_id="509"/>
+		<IR id="202" name="509" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="599" out_port_id="599"/>
+		<IR id="351" name="599" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="486" out_port_id="486"/>
+		<IR id="148" name="486" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="405" out_port_id="405"/>
+		<IR id="13" name="405/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="533" out_port_id="533"/>
+		<IR id="244" name="532/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="516" out_port_id="516"/>
+		<IR id="213" name="516" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="model.10.0.weight" out_port_id="model.10.0.weight"/>
+		<IR id="100" name="1845818461_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="487" out_port_id="487"/>
+		<IR id="152" name="487" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="442" out_port_id="442"/>
+		<IR id="74" name="442" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="model.1.0.weight" out_port_id="model.1.0.weight"/>
+		<IR id="10" name="1846218465_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.4.trunk.0.0.weight" out_port_id="refinement_stages.0.trunk.4.trunk.0.0.weight"/>
+		<IR id="252" name="539/mean/Fused_Mul_1269512697_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="pafs" out_port_id="0"/>
+		<IR id="416" name="pafs" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="602" out_port_id="602"/>
+		<IR id="356" name="602" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="571" out_port_id="571"/>
+		<IR id="307" name="570/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="cpm.trunk.0.2.weight" out_port_id="cpm.trunk.0.2.weight"/>
+		<IR id="128" name="onnx_initializer_node_cpm.trunk.0.2.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.0.bottleneck.1.0.weight" out_port_id="Pose3D.stem.0.bottleneck.1.0.weight"/>
+		<IR id="293" name="561/mean/Fused_Mul_1271112713_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="cpm.trunk.2.0.weight" out_port_id="cpm.trunk.2.0.weight"/>
+		<IR id="137" name="1841418417_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="491" out_port_id="491"/>
+		<IR id="162" name="491" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="525" out_port_id="525"/>
+		<IR id="229" name="525" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="440" out_port_id="440"/>
+		<IR id="71" name="440" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="535" out_port_id="535"/>
+		<IR id="246" name="535" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="419" out_port_id="419"/>
+		<IR id="36" name="419" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="463" out_port_id="463"/>
+		<IR id="109" name="463" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.prediction.feature_maps.0.0.weight" out_port_id="Pose3D.prediction.feature_maps.0.0.weight"/>
+		<IR id="400" name="onnx_initializer_node_Pose3D.prediction.feature_maps.0.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="504" out_port_id="504"/>
+		<IR id="192" name="504" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="471" out_port_id="471"/>
+		<IR id="124" name="471" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="613" out_port_id="613"/>
+		<IR id="376" name="612/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="616" out_port_id="616"/>
+		<IR id="381" name="615/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="model.7.3.weight" out_port_id="model.7.3.weight"/>
+		<IR id="75" name="444/mean/Fused_Mul_1262712629_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.pafs.0.0.weight" out_port_id="refinement_stages.0.pafs.0.0.weight"/>
+		<IR id="272" name="onnx_initializer_node_refinement_stages.0.pafs.0.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.2.bottleneck.0.0.weight" out_port_id="Pose3D.stem.2.bottleneck.0.0.weight"/>
+		<IR id="320" name="581/mean/Fused_Mul_1273112733_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.prediction.feature_maps.1.0.weight" out_port_id="Pose3D.prediction.feature_maps.1.0.weight"/>
+		<IR id="405" name="onnx_initializer_node_Pose3D.prediction.feature_maps.1.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="500" out_port_id="500"/>
+		<IR id="186" name="500" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="416" out_port_id="416"/>
+		<IR id="31" name="416" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="fake_conv_heatmaps.weight" out_port_id="fake_conv_heatmaps.weight"/>
+		<IR id="410" name="onnx_initializer_node_fake_conv_heatmaps.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="401" out_port_id="401"/>
+		<IR id="6" name="401" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="451" out_port_id="451"/>
+		<IR id="89" name="451" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="512" out_port_id="512"/>
+		<IR id="207" name="511/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="614" out_port_id="614"/>
+		<IR id="377" name="614" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="473" out_port_id="473"/>
+		<IR id="127" name="473" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.2.trunk.0.0.weight" out_port_id="refinement_stages.0.trunk.2.trunk.0.0.weight"/>
+		<IR id="220" name="521/mean/Fused_Mul_1267912681_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="522" out_port_id="522"/>
+		<IR id="224" name="522" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="features" out_port_id="0"/>
+		<IR id="408" name="features" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="574" out_port_id="574"/>
+		<IR id="312" name="573/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="model.5.0.weight" out_port_id="model.5.0.weight"/>
+		<IR id="50" name="1842618429_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="model.9.0.weight" out_port_id="model.9.0.weight"/>
+		<IR id="90" name="1844218445_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="462" out_port_id="462"/>
+		<IR id="108" name="462/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="Pose3D.prediction.trunk.1.trunk.0.0.weight" out_port_id="Pose3D.prediction.trunk.1.trunk.0.0.weight"/>
+		<IR id="389" name="622/mean/Fused_Mul_1277512777_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="initial_stage.trunk.0.0.weight" out_port_id="initial_stage.trunk.0.0.weight"/>
+		<IR id="149" name="onnx_initializer_node_initial_stage.trunk.0.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="479" out_port_id="479"/>
+		<IR id="136" name="479" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="model.7.0.weight" out_port_id="model.7.0.weight"/>
+		<IR id="70" name="1843818441_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="518" out_port_id="518"/>
+		<IR id="218" name="518" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="623" out_port_id="623"/>
+		<IR id="393" name="623" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="622" out_port_id="622"/>
+		<IR id="392" name="621/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="569" out_port_id="569"/>
+		<IR id="303" name="569" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="436" out_port_id="436"/>
+		<IR id="64" name="436" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="472" out_port_id="472"/>
+		<IR id="126" name="472" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="412" out_port_id="412"/>
+		<IR id="24" name="412" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.0.bottleneck.0.0.weight" out_port_id="Pose3D.stem.0.bottleneck.0.0.weight"/>
+		<IR id="288" name="558/mean/Fused_Mul_1270712709_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="510" out_port_id="510"/>
+		<IR id="203" name="510" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="618" out_port_id="618"/>
+		<IR id="383" name="618" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="608" out_port_id="608"/>
+		<IR id="366" name="608" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="446" out_port_id="446"/>
+		<IR id="81" name="446" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="584" out_port_id="584"/>
+		<IR id="328" name="583/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="409" out_port_id="409"/>
+		<IR id="19" name="409" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="model.2.0.weight" out_port_id="model.2.0.weight"/>
+		<IR id="20" name="1844618449_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="441" out_port_id="441"/>
+		<IR id="73" name="441/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.heatmaps.1.0.weight" out_port_id="refinement_stages.0.heatmaps.1.0.weight"/>
+		<IR id="268" name="onnx_initializer_node_refinement_stages.0.heatmaps.1.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="483" out_port_id="483"/>
+		<IR id="142" name="483" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.1.trunk.0.0.weight" out_port_id="refinement_stages.0.trunk.1.trunk.0.0.weight"/>
+		<IR id="204" name="512/mean/Fused_Mul_1267112673_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="455" out_port_id="455"/>
+		<IR id="96" name="455" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="heatmaps" out_port_id="0"/>
+		<IR id="412" name="heatmaps" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="433" out_port_id="433"/>
+		<IR id="59" name="433" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="544" out_port_id="544"/>
+		<IR id="262" name="544" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="498" out_port_id="498"/>
+		<IR id="181" name="498" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="435" out_port_id="435"/>
+		<IR id="63" name="435/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="448" out_port_id="448"/>
+		<IR id="84" name="448" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="481" out_port_id="481"/>
+		<IR id="139" name="481" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="561" out_port_id="561"/>
+		<IR id="296" name="560/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="589" out_port_id="589"/>
+		<IR id="335" name="589" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="427" out_port_id="427"/>
+		<IR id="49" name="427" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="425" out_port_id="425"/>
+		<IR id="46" name="425" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="Pose3D.prediction.trunk.1.initial.0.weight" out_port_id="Pose3D.prediction.trunk.1.initial.0.weight"/>
+		<IR id="384" name="onnx_initializer_node_Pose3D.prediction.trunk.1.initial.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="422" out_port_id="422"/>
+		<IR id="41" name="422" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="592" out_port_id="592"/>
+		<IR id="340" name="592" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="cpm.trunk.1.0.weight" out_port_id="cpm.trunk.1.0.weight"/>
+		<IR id="131" name="1842218425_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="Pose3D.prediction.trunk.0.trunk.0.0.weight" out_port_id="Pose3D.prediction.trunk.0.trunk.0.0.weight"/>
+		<IR id="373" name="613/mean/Fused_Mul_1276712769_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="459" out_port_id="459"/>
+		<IR id="103" name="459/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="461" out_port_id="461"/>
+		<IR id="106" name="461" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="527" out_port_id="527"/>
+		<IR id="234" name="527" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="initial_stage.trunk.1.0.weight" out_port_id="initial_stage.trunk.1.0.weight"/>
+		<IR id="154" name="onnx_initializer_node_initial_stage.trunk.1.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="454" out_port_id="454"/>
+		<IR id="94" name="454" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="431" out_port_id="431"/>
+		<IR id="56" name="431" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.2.trunk.1.0.weight" out_port_id="refinement_stages.0.trunk.2.trunk.1.0.weight"/>
+		<IR id="225" name="524/mean/Fused_Mul_1268312685_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.0.initial.0.weight" out_port_id="refinement_stages.0.trunk.0.initial.0.weight"/>
+		<IR id="183" name="onnx_initializer_node_refinement_stages.0.trunk.0.initial.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="cpm.conv.0.weight" out_port_id="cpm.conv.0.weight"/>
+		<IR id="144" name="onnx_initializer_node_cpm.conv.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.trunk.4.initial.0.weight" out_port_id="refinement_stages.0.trunk.4.initial.0.weight"/>
+		<IR id="247" name="onnx_initializer_node_refinement_stages.0.trunk.4.initial.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="464" out_port_id="464"/>
+		<IR id="111" name="464" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="fake_conv_pafs.weight" out_port_id="fake_conv_pafs.weight"/>
+		<IR id="414" name="onnx_initializer_node_fake_conv_pafs.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="539" out_port_id="539"/>
+		<IR id="255" name="538/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="480" out_port_id="480"/>
+		<IR id="138" name="480" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="610" out_port_id="610"/>
+		<IR id="371" name="610" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="model.11.0.weight" out_port_id="model.11.0.weight"/>
+		<IR id="110" name="1841818421_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="460" out_port_id="460"/>
+		<IR id="104" name="460" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="490" out_port_id="490"/>
+		<IR id="158" name="490" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="551" out_port_id="551"/>
+		<IR id="411" name="551" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="Pose3D.prediction.trunk.1.trunk.1.0.weight" out_port_id="Pose3D.prediction.trunk.1.trunk.1.0.weight"/>
+		<IR id="394" name="625/mean/Fused_Mul_1277912781_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="434" out_port_id="434"/>
+		<IR id="61" name="434" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="Pose3D.stem.4.bottleneck.1.0.weight" out_port_id="Pose3D.stem.4.bottleneck.1.0.weight"/>
+		<IR id="357" name="604/mean/Fused_Mul_1275912761_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="477" out_port_id="477"/>
+		<IR id="133" name="477" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="457" out_port_id="457"/>
+		<IR id="99" name="457" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="528" out_port_id="528"/>
+		<IR id="235" name="528" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="496" out_port_id="496"/>
+		<IR id="176" name="496" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="421" out_port_id="421"/>
+		<IR id="39" name="421" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="507" out_port_id="507"/>
+		<IR id="197" name="507" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="629" out_port_id="629"/>
+		<IR id="404" name="629" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="model.11.3.weight" out_port_id="model.11.3.weight"/>
+		<IR id="115" name="468/mean/Fused_Mul_1265912661_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="628" out_port_id="628"/>
+		<IR id="403" name="628" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="577" out_port_id="577"/>
+		<IR id="317" name="576/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="407" out_port_id="407"/>
+		<IR id="16" name="407" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="417" out_port_id="417"/>
+		<IR id="33" name="417/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="543" out_port_id="543"/>
+		<IR id="261" name="543" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="585" out_port_id="585"/>
+		<IR id="329" name="585" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="565" out_port_id="565"/>
+		<IR id="302" name="565" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="465" out_port_id="465"/>
+		<IR id="113" name="465/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="476" out_port_id="476"/>
+		<IR id="132" name="476" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="550" out_port_id="550"/>
+		<IR id="280" name="550" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="626" out_port_id="626"/>
+		<IR id="398" name="626" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="558" out_port_id="558"/>
+		<IR id="291" name="557/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="540" out_port_id="540"/>
+		<IR id="256" name="540" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="545" out_port_id="545"/>
+		<IR id="266" name="545" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="515" out_port_id="515"/>
+		<IR id="212" name="514/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="refinement_stages.0.pafs.1.0.weight" out_port_id="refinement_stages.0.pafs.1.0.weight"/>
+		<IR id="277" name="onnx_initializer_node_refinement_stages.0.pafs.1.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="501" out_port_id="501"/>
+		<IR id="187" name="501" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="625" out_port_id="625"/>
+		<IR id="397" name="624/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="521" out_port_id="521"/>
+		<IR id="223" name="520/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="438" out_port_id="438"/>
+		<IR id="68" name="438/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="456" out_port_id="456"/>
+		<IR id="98" name="456/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="466" out_port_id="466"/>
+		<IR id="114" name="466" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="478" out_port_id="478"/>
+		<IR id="135" name="478" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="424" out_port_id="424"/>
+		<IR id="44" name="424" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="467" out_port_id="467"/>
+		<IR id="116" name="467" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="initial_stage.heatmaps.0.0.weight" out_port_id="initial_stage.heatmaps.0.0.weight"/>
+		<IR id="164" name="onnx_initializer_node_initial_stage.heatmaps.0.0.weight/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="453" out_port_id="453"/>
+		<IR id="93" name="453/variance/Fused_Add_" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="549" out_port_id="549"/>
+		<IR id="276" name="549" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="537" out_port_id="537"/>
+		<IR id="251" name="537" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="model.6.3.weight" out_port_id="model.6.3.weight"/>
+		<IR id="65" name="438/mean/Fused_Mul_1261912621_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="model.8.0.weight" out_port_id="model.8.0.weight"/>
+		<IR id="80" name="1843018433_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="503" out_port_id="503"/>
+		<IR id="191" name="502/Fused_Add_" out_port_id="2"/>
+	</map>
+</mapping>
